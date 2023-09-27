@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(159, 150, 150);
+}
+
+.price{
+    font-style: italic;
+    font-size: large;
+
+}
+
+.numericUpDown{
+    background-color: rgb(211, 208, 208) !important;
+}
+
+.icono-tienda{
+    width: 20px;
+    height: 20px;
+}
