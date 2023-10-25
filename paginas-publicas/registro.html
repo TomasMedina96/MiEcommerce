@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REGISTRO</title>
+    <link rel="shortcut icon" href="diseno-web.png">
+    <link rel="stylesheet" href="stylenav.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<body>
+    <h1 class="text-center">REGISTRO</h1>
+    
+    <div class="container-md">
+
+        <div class="card text-bg-secondary mb-3 mt-5">
+            <div class="card-header">Nuevo usuario</div>
+            <div class="card-body">
+                <form class="row g-3">
+                    <div class="col-md-6">
+                      <label for="inputEmail4" class="form-label">Email</label>
+                      <input type="email" class="form-control" id="inputEmail4" placeholder="Correo electronico" required>
+                    </div>
+                    <div class="col-md-6">
+                      <label for="inputPassword4" class="form-label">Password</label>
+                      <input type="password" class="form-control" id="inputPassword4" placeholder="Password" required>
+                    </div>
+                    <div class="col-12">
+                      <label for="inputAddress" class="form-label">Direccion</label>
+                      <input type="text" class="form-control" id="inputAddress" placeholder="Mallorca 1800" required>
+                    </div>
+                    <div class="col-md-6">
+                      <label for="inputCity" class="form-label">Pais</label>
+                      <input type="text" class="form-control" id="inputCity" value="Argentina" required>
+                    </div>
+                    <div class="col-md-4">
+                      <label for="inputState" class="form-label">Provincia</label>
+                      <select id="inputState" class="form-select" required>
+                        <option selected>Cordoba</option>
+                        <option>Buenos Aires</option>
+                        <option>Mendoza</option>
+                        <option>Jujuy</option>
+                        <option>La Rioja</option>
+                        <option>Misiones</option>
+                      </select>
+                    </div>
+                    <div class="col-md-2">
+                      <label for="inputZip" class="form-label">Edad</label>
+                      <input type="text" class="form-control" id="inputZip" placeholder="28" required>
+                    </div>
+                    <div class="col-12">
+                      <div class="form-check">
+                        <input class="form-check-input" type="checkbox" id="gridCheck" required>
+                        <label class="form-check-label" for="gridCheck">
+                          Estoy de acuerdo con todas las politicas.
+                        </label>
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <button type="submit" class="btn btn-dark ">Registrarme</button>
+                      <a href="./login.html" role="button" class="btn btn-dark position-absolute bottom-1 end-0 mx-3">Volver atrás</a>
+                    </div>
+                  </form>
+
+            </div>
+
+        </div>
+
+    </div>   
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="./index.js"></script>
+</body>
+</html>
