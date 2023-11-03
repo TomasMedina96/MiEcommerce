@@ -1,22 +1,22 @@
 import { cardComponent } from "../../componentes/card.js";
 
-const productos =[
-    {imagen:'../../imagenes/notebook.avif',titulo:'titulo',texto:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates?',precio:'2000'},
-    {imagen:'../../imagenes/notebook.avif',titulo:'titulo',texto:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates?',precio:'2000'},
-    {imagen:'../../imagenes/notebook.avif',titulo:'titulo',texto:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates?',precio:'2000'},
-    {imagen:'../../imagenes/notebook.avif',titulo:'titulo',texto:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates?',precio:'2000'},
-    {imagen:'../../imagenes/notebook.avif',titulo:'titulo',texto:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates?',precio:'2000'},
-    {imagen:'../../imagenes/notebook.avif',titulo:'titulo',texto:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates?',precio:'2000'},
-    {imagen:'../../imagenes/notebook.avif',titulo:'titulo',texto:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates?',precio:'2000'},
-    {imagen:'../../imagenes/notebook.avif',titulo:'titulo',texto:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates?',precio:'2000'}
-]
 
 
 let cardContainer = document.getElementById('c-container');
 window.addEventListener('load', () =>{
 
+    fetch('http://127.0.0.1:5500/tablaProd.json').then(response => response.json()).then(productos =>{
+
     const Cprod = productos.map(e=>{
+
+       if (e.categoria == "Computadoras")
+       {
         return cardComponent(e.imagen,e.titulo,e.texto,e.precio)
+       } 
+        
     }).join('')
     cardContainer.innerHTML = Cprod;
+
+    });
+
 })

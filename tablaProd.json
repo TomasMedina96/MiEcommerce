@@ -1,0 +1,109 @@
+
+[
+    {
+       "imagen": "../../imagenes/notebook.avif ",
+       "titulo": "Notebook 2023",
+       "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+       "precio": "50000",
+       "categoria": "Computadoras"
+    },
+    {
+        "imagen": "../../imagenes/notebook.avif ",
+        "titulo": "Notebook 2023",
+        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+        "precio": "50000",
+        "categoria": "Computadoras"
+     },
+     {
+        "imagen": "../../imagenes/notebook.avif ",
+        "titulo": "Notebook 2023",
+        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+        "precio": "50000",
+        "categoria": "Computadoras"
+     },
+     {
+        "imagen": "../../imagenes/notebook.avif ",
+        "titulo": "Notebook 2023",
+        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+        "precio": "50000",
+        "categoria": "Computadoras"
+     },
+     {
+        "imagen": "../../imagenes/notebook.avif ",
+        "titulo": "Notebook 2023",
+        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+        "precio": "50000",
+        "categoria": "Computadoras"
+     },
+     {
+        "imagen": "../../imagenes/televisor.jpg",
+        "titulo": "Televisor 2023",
+        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+        "precio": "35000",
+        "categoria": "Televisores"
+     },
+     {
+        "imagen": "../../imagenes/televisor.jpg",
+        "titulo": "Televisor 2023",
+        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+        "precio": "35000",
+        "categoria": "Televisores"
+     },
+     {
+        "imagen": "../../imagenes/televisor.jpg",
+        "titulo": "Televisor 2023",
+        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+        "precio": "35000",
+        "categoria": "Televisores"
+     },
+     {
+        "imagen": "../../imagenes/televisor.jpg",
+        "titulo": "Televisor 2023",
+        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+        "precio": "35000",
+        "categoria": "Televisores"
+     },
+     {
+        "imagen": "../../imagenes/televisor.jpg",
+        "titulo": "Televisor 2023",
+        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+        "precio": "35000",
+        "categoria": "Televisores"
+     },
+     {
+        "imagen": "../../imagenes/celular.jpg",
+        "titulo": "Celular 2023",
+        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+        "precio": "28000",
+        "categoria": "Celulares"
+     },
+     {
+        "imagen": "../../imagenes/celular.jpg",
+        "titulo": "Celular 2023",
+        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+        "precio": "28000",
+        "categoria": "Celulares"
+     },
+     {
+        "imagen": "../../imagenes/celular.jpg",
+        "titulo": "Celular 2023",
+        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+        "precio": "28000",
+        "categoria": "Celulares"
+     },
+     {
+        "imagen": "../../imagenes/celular.jpg",
+        "titulo": "Celular 2023",
+        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+        "precio": "28000",
+        "categoria": "Celulares"
+     },
+     {
+        "imagen": "../../imagenes/celular.jpg",
+        "titulo": "Celular 2023",
+        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
+        "precio": "28000",
+        "categoria": "Celulares"
+     }
+
+]
