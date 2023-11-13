@@ -15,10 +15,10 @@ return `
                         <p class="price" id="priceC">$${precio}</p>
                     </div>
                     <div class="col">
-                        <input type="number" class="form-control numericUpDown" value="0" placeholder="0" min="0" max="10" step="1" id="cantidadC">
+                        <input type="number" class="form-control numericUpDown" id="cantidadC" value="0" placeholder="0" min="0" max="10" step="1" id="cantidadC">
                     </div>
                     <div class="col-6">
-                    <button class="btn btn-success" id="${id}">Añadir al carrito</button>                 
+                    <button class="btn btn-success" data-number="agregar" id="${id}">Añadir al carrito</button>                 
                     </div>                   
                 </div>                      
             </div>
