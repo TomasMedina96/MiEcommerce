@@ -5,105 +5,135 @@
        "titulo": "Notebook 2023",
        "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
        "precio": "50000",
-       "categoria": "Computadoras"
+       "categoria": "Computadoras",
+       "url": "http://127.0.0.1:5500/paginas-privadas/computadoras/computadoras.html",
+       "id": "1"
     },
     {
         "imagen": "../../imagenes/notebook.avif ",
         "titulo": "Notebook 2023",
         "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
         "precio": "50000",
-        "categoria": "Computadoras"
+        "categoria": "Computadoras",
+        "url": "http://127.0.0.1:5500/paginas-privadas/computadoras/computadoras.html",
+        "id": "2"
      },
      {
         "imagen": "../../imagenes/notebook.avif ",
         "titulo": "Notebook 2023",
         "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
         "precio": "50000",
-        "categoria": "Computadoras"
+        "categoria": "Computadoras",
+        "url":"http://127.0.0.1:5500/paginas-privadas/computadoras/computadoras.html",
+        "id": "3"
      },
      {
         "imagen": "../../imagenes/notebook.avif ",
         "titulo": "Notebook 2023",
         "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
         "precio": "50000",
-        "categoria": "Computadoras"
+        "categoria": "Computadoras",
+        "url": "http://127.0.0.1:5500/paginas-privadas/computadoras/computadoras.html",
+        "id": "4"
      },
      {
         "imagen": "../../imagenes/notebook.avif ",
         "titulo": "Notebook 2023",
         "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
         "precio": "50000",
-        "categoria": "Computadoras"
+        "categoria": "Computadoras",
+        "url": "http://127.0.0.1:5500/paginas-privadas/computadoras/computadoras.html",
+        "id": "5"
      },
      {
         "imagen": "../../imagenes/televisor.jpg",
         "titulo": "Televisor 2023",
         "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
         "precio": "35000",
-        "categoria": "Televisores"
+        "categoria": "Televisores",
+        "url": "http://127.0.0.1:5500/paginas-privadas/televisores/televisores.html",
+        "id": "6"
      },
      {
         "imagen": "../../imagenes/televisor.jpg",
         "titulo": "Televisor 2023",
         "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
         "precio": "35000",
-        "categoria": "Televisores"
+        "categoria": "Televisores",
+        "url": "http://127.0.0.1:5500/paginas-privadas/televisores/televisores.html",
+        "id": "7"
      },
      {
         "imagen": "../../imagenes/televisor.jpg",
         "titulo": "Televisor 2023",
         "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
         "precio": "35000",
-        "categoria": "Televisores"
+        "categoria": "Televisores",
+        "url": "http://127.0.0.1:5500/paginas-privadas/televisores/televisores.html",
+        "id": "8"
      },
      {
         "imagen": "../../imagenes/televisor.jpg",
         "titulo": "Televisor 2023",
         "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
         "precio": "35000",
-        "categoria": "Televisores"
+        "categoria": "Televisores",
+        "url": "http://127.0.0.1:5500/paginas-privadas/televisores/televisores.html",
+        "id": "9"
      },
      {
         "imagen": "../../imagenes/televisor.jpg",
         "titulo": "Televisor 2023",
         "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
         "precio": "35000",
-        "categoria": "Televisores"
+        "categoria": "Televisores",
+        "url": "http://127.0.0.1:5500/paginas-privadas/televisores/televisores.html",
+        "id": "10"
      },
      {
         "imagen": "../../imagenes/celular.jpg",
         "titulo": "Celular 2023",
         "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
         "precio": "28000",
-        "categoria": "Celulares"
+        "categoria": "Celulares",
+        "url": "http://127.0.0.1:5500/paginas-privadas/celulares/celulares.html",
+        "id": "11"
      },
      {
         "imagen": "../../imagenes/celular.jpg",
         "titulo": "Celular 2023",
         "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
         "precio": "28000",
-        "categoria": "Celulares"
+        "categoria": "Celulares",
+        "url": "http://127.0.0.1:5500/paginas-privadas/celulares/celulares.html",
+        "id": "12"
      },
      {
         "imagen": "../../imagenes/celular.jpg",
         "titulo": "Celular 2023",
         "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
         "precio": "28000",
-        "categoria": "Celulares"
+        "categoria": "Celulares",
+        "url": "http://127.0.0.1:5500/paginas-privadas/celulares/celulares.html",
+        "id": "13"
      },
      {
         "imagen": "../../imagenes/celular.jpg",
         "titulo": "Celular 2023",
         "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
         "precio": "28000",
-        "categoria": "Celulares"
+        "categoria": "Celulares",
+        "url": "http://127.0.0.1:5500/paginas-privadas/celulares/celulares.html",
+        "id": "14"
      },
      {
         "imagen": "../../imagenes/celular.jpg",
         "titulo": "Celular 2023",
         "texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptas voluptatem recusandae pariatur ullam, impedit rerum, fugit nemo numquam architecto modi ab optio laborum doloribus voluptate officiis a omnis voluptates? ",
         "precio": "28000",
-        "categoria": "Celulares"
+        "categoria": "Celulares",
+        "url": "http://127.0.0.1:5500/paginas-privadas/celulares/celulares.html",
+        "id": "15"
      }
 
 ]

@@ -2,9 +2,9 @@ const url = 'http://127.0.0.1:5500/'
 const TitulosyDirecciones = [
     {titulo:'Computadoras', link: `${url}../../paginas-privadas/computadoras/computadoras.html`},
     {titulo:'Televisores', link:`${url}../../paginas-privadas/televisores/televisores.html`},
-    {titulo:'Celulares', link:`${url}../../paginas-privadas/celulares/celulares.html`}   
+    {titulo:'Celulares', link:`${url}../../paginas-privadas/celulares/celulares.html`},
+    {titulo:'Carrito de compras', link:`${url}../../paginas-privadas/carrito/carrito.html`}     
 ]
-
 
 export const navbarC = `
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
