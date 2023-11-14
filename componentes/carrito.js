@@ -5,7 +5,7 @@ return `
 <td scope="row">${titulo}</td>
 <td>${precio}</td>
 <td>${cantidad}</td>
-<button type="submit" class="btn btn-danger" data-number="eliminar" id="${id}">Eliminar del carrito</button>
+<td><button type="submit" class="btn btn-danger" data-number="eliminar" id="${id}">Eliminar</button></td>
 </tr>
 
 `}
