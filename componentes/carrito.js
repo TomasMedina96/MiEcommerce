@@ -5,8 +5,10 @@ return `
 <td scope="row">${titulo}</td>
 <td>${precio}</td>
 <td>${cantidad}</td>
-<td><button type="submit" class="btn" id="btncarrito"><img class="carritoicono" data-number="eliminar" id="${id}" src="../../imagenes/carritoeliminar.png" alt=""></button></td>   
-<td><button  class="btn btn-danger" data-number="eliminar" id="${id}">Eliminar</button></td>
+<td style="display: flex;
+align-items: center;
+justify-content: center;"><button type="submit" class="btn" id="btncarrito"><img class="carritoicono" data-number="eliminar" id="${id}" src="../../imagenes/carritoeliminar.png" alt=""></button></td>
+
 </tr>
 
 `}
@@ -62,3 +64,5 @@ export const datos = (total) => {
       </div>
     </div>
     `}
+
+    //<td><button  class="btn btn-danger" data-number="eliminar" id="${id}">Eliminar</button></td>
