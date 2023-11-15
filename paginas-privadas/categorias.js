@@ -1,6 +1,6 @@
 import { cardComponent } from "../../componentes/card.js";
-import { getData  } from "../../localStorage.js";
-import { setData } from "../../localStorage.js";
+import { getData  } from "../../data/localStorage.js";
+import { setData } from "../../data/localStorage.js";
 
 let title = document.querySelector(".titulo").id
 

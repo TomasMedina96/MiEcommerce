@@ -17,8 +17,8 @@ return `
                     <div class="col">
                         <input type="number" class="form-control numericUpDown" id="cantidadC" value="0" placeholder="0" min="0" max="10" step="1" id="cantidadC">
                     </div>
-                    <div class="col-6">
-                    <button class="btn btn-success" data-number="agregar" id="${id}">Añadir al carrito</button>                 
+                    <div class="col carritobtn">
+                    <button class="btn" id="btncarrito"><img class="carritoicono" data-number="agregar" id="${id}" src="../../imagenes/carrito.png" alt=""></button>                                  
                     </div>                   
                 </div>                      
             </div>

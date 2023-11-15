@@ -1,7 +1,7 @@
 import { compras } from "../../componentes/carrito.js";
 import { datos } from "../../componentes/carrito.js";
-import { getData, setData  } from "../../localStorage.js";
-import { deleteData } from "../../localStorage.js";
+import { getData, setData  } from "../../data/localStorage.js";
+import { deleteData } from "../../data/localStorage.js";
 
 let bod = document.getElementById("c-container")
 let bod1 = document.getElementById("idDatos")

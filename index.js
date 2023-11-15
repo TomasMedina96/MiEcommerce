@@ -1,6 +1,6 @@
 import {navbarC} from "./componentes/navbar.js"
-import { getData } from "./sessionStorage.js";
-import { setData } from "./sessionStorage.js";
+import { getData } from "./data/sessionStorage.js";
+import { setData } from "./data/sessionStorage.js";
 
 let navContenedor = document.querySelector('header')
 

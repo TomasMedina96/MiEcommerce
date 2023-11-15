@@ -5,7 +5,8 @@ return `
 <td scope="row">${titulo}</td>
 <td>${precio}</td>
 <td>${cantidad}</td>
-<td><button type="submit" class="btn btn-danger" data-number="eliminar" id="${id}">Eliminar</button></td>
+<td><button type="submit" class="btn" id="btncarrito"><img class="carritoicono" data-number="eliminar" id="${id}" src="../../imagenes/carritoeliminar.png" alt=""></button></td>   
+<td><button  class="btn btn-danger" data-number="eliminar" id="${id}">Eliminar</button></td>
 </tr>
 
 `}
