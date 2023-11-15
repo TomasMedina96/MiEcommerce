@@ -13,7 +13,7 @@ window.addEventListener('load', () =>{
 
     const Cprod = productos.map(e=>{
 
-       if (e.categoria == title)
+       if (e.categoria == title || e.home == title)
        {
         return cardComponent(e.imagen,e.titulo,e.texto,e.precio,e.id)
        } 
