@@ -58,7 +58,7 @@ export const datos = (total) => {
               </div>
             </div>
             <div class="col-12 d-flex justify-content-start">
-              <button type="submit" class="btn btn-danger p-3" data-number="comprar">Comprar</button>
+              <button type="submit" class="btn btn-success p-3" data-number="comprar">Comprar</button>
             </div>
           </form>
       </div>
