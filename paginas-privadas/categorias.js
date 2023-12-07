@@ -29,15 +29,15 @@ window.addEventListener('load', () =>{
 //click en agregar al carrito
 window.addEventListener('click', event => {
 
-    let cantidad = document.getElementById("cantidadC").value
+    
     if(event.target.dataset.number == "agregar")
     {
         fetch('http://127.0.0.1:5500/tablaProd.json').then(response => response.json()).then(productos =>{
 
 
-
+        
         const Cprod = productos.map(e=>{
-    
+            let cantidad = document.getElementById(e.id).value
             if (e.id == event.target.id && cantidad != '0')
             { 
      
@@ -63,7 +63,7 @@ window.addEventListener('click', event => {
          }).join('')
          
     
-         console.log(Cprod)
+         event.target.offsetParent.childNodes[5].childNodes[1].childNodes[3].childNodes[1].value = 0
     
     })
     }
