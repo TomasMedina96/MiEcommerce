@@ -2,9 +2,9 @@
 export const cardComponent = (image,titulo,texto,precio,id) =>{ 
 
 return ` 
-    <div class="col">
+<div class="card-group">
         <div class="card my-2" id="cards">
-            <img src="${image}" alt="item">
+            <img class="card-img-top" src="${image}" alt="Card image cap">
             <div class="card-body" id="ACAACA">
                 <h5 class="card-title" id="titleC">${titulo} </h5>
                 <p class="card-text textC" id="textC">${texto}</p>
@@ -18,12 +18,12 @@ return `
                         <input type="number" class="form-control numericUpDown" id="cantidadC" value="0" placeholder="0" min="0" max="10" step="1" id="cantidadC">
                     </div>
                     <div class="col carritobtn">
-                    <button class="btn" id="btncarrito"><img class="carritoicono" data-number="agregar" id="${id}" src="../../imagenes/carrito.png" alt=""></button>                                  
+                    <button class="btn" data-number="agregar" id="${id}"><img class="carritoicono"  src="../../imagenes/carrito.png" alt=""></button>                                  
                     </div>                   
                 </div>                      
             </div>
         </div>
-    </div>
+</div>
 `}
 
 
