@@ -1,11 +1,15 @@
 import {navbarC} from "./componentes/navbar.js"
 import { getData } from "./data/sessionStorage.js";
 import { setData } from "./data/sessionStorage.js";
+import { pie } from "./componentes/footer.js";
 
 let navContenedor = document.querySelector('header')
+let foot = document.querySelector('footer')
 
 window.addEventListener('load', ()=>{
     navContenedor.innerHTML = navbarC;
+    foot.innerHTML = pie;
+
 
     const items = getData('Login')
 })
