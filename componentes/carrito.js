@@ -65,4 +65,3 @@ export const datos = (total) => {
     </div>
     `}
 
-    //<td><button  class="btn btn-danger" data-number="eliminar" id="${id}">Eliminar</button></td>

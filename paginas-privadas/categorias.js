@@ -26,7 +26,6 @@ window.addEventListener('load', () =>{
 })
 
 
-//click en agregar al carrito
 window.addEventListener('click', event => {
 
     

@@ -30,7 +30,7 @@ window.addEventListener('load', event =>{
     
 })
 
-//click en eliminar
+
 window.addEventListener('click', event => {
 
     const items = getData('Productos')
@@ -46,7 +46,7 @@ window.addEventListener('click', event => {
 
 })
 
-//click en comprar
+
 window.addEventListener('click', event => {
 
     console.dir(event.target.dataset.number)
